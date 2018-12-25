@@ -1,9 +1,9 @@
 import argparse
 import math
 import time
-
 import numpy as np
 import tensorflow as tf
+from datetime import date
 
 from preprocessing import TextLoader
 
@@ -20,12 +20,13 @@ def main():
                         help='number of hidden layers')
     parser.add_argument('--word_dim', type=int, default=50,
                         help='number of word embedding')
-    parser.add_argument('--num_epochs', type=int, default=10,
+    parser.add_argument('--num_epochs', type=int, default=1,
                         help='number of epochs')
     parser.add_argument('--grad_clip', type=float, default=10.,
                         help='clip gradients at this value')
 
     args = parser.parse_args()
+
 
     data_loader = TextLoader(args.data_dir, args.batch_size, args.win_size)
     args.vocab_size = data_loader.vocab_size
@@ -75,6 +76,7 @@ def main():
         normalized_embeddings = embeddings / embeddings_norm
 
     with tf.Session(graph=graph) as sess:
+
         tf.global_variables_initializer().run()
         for e in range(args.num_epochs):
             data_loader.reset_batch_pointer()
@@ -84,11 +86,23 @@ def main():
                 feed = {input_data: x, targets: y}
                 train_loss, _ = sess.run([loss, optimizer], feed)
                 end = time.time()
-                print("{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}".format(
+
+                processing_message = "{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}".format(
                     b, data_loader.num_batches,
-                    e, train_loss, end - start))
+                    e, train_loss, end - start)
+
+                print(processing_message)
+                # print("{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}".format(
+                #     b, data_loader.num_batches,
+				#     e, train_loss, end - start))
+
 
             np.save('nnlm_word_embeddings.zh', normalized_embeddings.eval())
+
+    # record training processing
+    local_time = str(time.strftime("%Y-%m-%d_%H:%M:%S", time.localtime()))
+    with open("{}.txt".format('casdsa'), 'w', encoding='utf-8') as f:
+        f.write(local_time)
 
 
 if __name__ == '__main__':
