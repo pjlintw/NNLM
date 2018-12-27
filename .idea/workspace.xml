@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5e5271d-cd43-4d3e-afc8-77356e7efcc8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/NNLM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NNLM.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/orig-prefix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/orig-prefix.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip-18.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip-18.1.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/setuptools-40.6.3.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/setuptools-40.6.3.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/setuptools/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/wheel-0.32.3.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/wheel-0.32.3.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/activate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/activate.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/activate.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/deactivate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/deactivate.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/easy_install-3.6.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/easy_install-3.6.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/easy_install.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/pip.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pip3.6.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/pip3.6.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/pip3.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/python.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/python.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/python3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/python3.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/python36.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/python36.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pythonw.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/pythonw.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/wheel.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Scripts/wheel.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/input_zh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/input_zh.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/vocab.zh.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nnlm.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/nnlm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nnlm_word_embeddings.zh.npy" beforeDir="false" afterPath="$PROJECT_DIR$/src/nnlm_word_embeddings.zh.npy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Untitled1.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +37,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -379,15 +357,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545570193909</updated>
-      <workItem from="1545749756657" duration="18675000" />
+      <workItem from="1545749756657" duration="19275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18675000" />
+    <option name="totallyTimeSpent" value="19275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13270777" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -514,7 +493,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
