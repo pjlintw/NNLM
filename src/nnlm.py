@@ -16,11 +16,11 @@ def main():
                         help='minibatch size')
     parser.add_argument('--win_size', type=int, default=5,
                         help='context sequence length')
-    parser.add_argument('--hidden_num', type=int, default=64,
+    parser.add_argument('--hidden_num', type=int, default=100,
                         help='number of hidden layers')
-    parser.add_argument('--word_dim', type=int, default=50,
+    parser.add_argument('--word_dim', type=int, default=300,
                         help='number of word embedding')
-    parser.add_argument('--num_epochs', type=int, default=1,
+    parser.add_argument('--num_epochs', type=int, default=10,
                         help='number of epochs')
     parser.add_argument('--grad_clip', type=float, default=10.,
                         help='clip gradients at this value')
@@ -74,7 +74,7 @@ def main():
 
         embeddings_norm = tf.sqrt(tf.reduce_sum(tf.square(embeddings), 1, keep_dims=True))
         normalized_embeddings = embeddings / embeddings_norm
-
+    processing_message_lst = list()
     with tf.Session(graph=graph) as sess:
 
         tf.global_variables_initializer().run()
@@ -92,6 +92,7 @@ def main():
                     e, train_loss, end - start)
 
                 print(processing_message)
+                processing_message_lst.append(processing_message)
                 # print("{}/{} (epoch {}), train_loss = {:.3f}, time/batch = {:.3f}".format(
                 #     b, data_loader.num_batches,
 				#     e, train_loss, end - start))
@@ -100,9 +101,11 @@ def main():
             np.save('nnlm_word_embeddings.zh', normalized_embeddings.eval())
 
     # record training processing
+    print(start - end)
     local_time = str(time.strftime("%Y-%m-%d_%H:%M:%S", time.localtime()))
     with open("{}.txt".format('casdsa'), 'w', encoding='utf-8') as f:
         f.write(local_time)
+        f.write('\n'.join(processing_message_lst))
 
 
 if __name__ == '__main__':

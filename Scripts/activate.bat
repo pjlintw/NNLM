@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\Users\Linus\PycharmProjects\NNLM"
+set "VIRTUAL_ENV=C:\Users\IISR\PycharmProjects\NNLM"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
