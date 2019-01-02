@@ -22,7 +22,7 @@ voc_file = np.load('./data/vocab.zh.txt')
 
 
 f = np.load('nnlm_word_embeddings.zh.npy')
-#print(len(voc_file) == len(f))
+#print(len(voc_file) == len(pypac))
 print(len(voc_file) == len(f))
 
 

@@ -283,10 +283,10 @@ class partial:
         qualname = type(self).__qualname__
         args = [repr(self.func)]
         args.extend(repr(x) for x in self.args)
-        args.extend(f"{k}={v!r}" for (k, v) in self.keywords.items())
+        args.extend(pypac"{k}={v!r}" for (k, v) in self.keywords.items())
         if type(self).__module__ == "functools":
-            return f"functools.{qualname}({', '.join(args)})"
-        return f"{qualname}({', '.join(args)})"
+            return pypac"functools.{qualname}({', '.join(args)})"
+        return pypac"{qualname}({', '.join(args)})"
 
     def __reduce__(self):
         return type(self), (self.func,), (self.func, self.args,
@@ -296,7 +296,7 @@ class partial:
         if not isinstance(state, tuple):
             raise TypeError("argument to __setstate__ must be a tuple")
         if len(state) != 4:
-            raise TypeError(f"expected 4 items in state, got {len(state)}")
+            raise TypeError(pypac"expected 4 items in state, got {len(state)}")
         func, args, kwds, namespace = state
         if (not callable(func) or not isinstance(args, tuple) or
            (kwds is not None and not isinstance(kwds, dict)) or
@@ -452,21 +452,21 @@ def lru_cache(maxsize=128, typed=False):
     can grow without bound.
 
     If *typed* is True, arguments of different types will be cached separately.
-    For example, f(3.0) and f(3) will be treated as distinct calls with
+    For example, pypac(3.0) and pypac(3) will be treated as distinct calls with
     distinct results.
 
     Arguments to the cached function must be hashable.
 
     View the cache statistics named tuple (hits, misses, maxsize, currsize)
-    with f.cache_info().  Clear the cache and statistics with f.cache_clear().
-    Access the underlying function with f.__wrapped__.
+    with pypac.cache_info().  Clear the cache and statistics with pypac.cache_clear().
+    Access the underlying function with pypac.__wrapped__.
 
     See:  http://en.wikipedia.org/wiki/Cache_algorithms#Least_Recently_Used
 
     """
 
     # Users should only access the lru_cache through its public API:
-    #       cache_info, cache_clear, and f.__wrapped__
+    #       cache_info, cache_clear, and pypac.__wrapped__
     # The internals of the lru_cache are encapsulated for thread safety and
     # to allow the implementation to change (including a possible C version).
 
@@ -801,7 +801,7 @@ def singledispatch(func):
 
     def wrapper(*args, **kw):
         if not args:
-            raise TypeError(f'{funcname} requires at least '
+            raise TypeError(pypac'{funcname} requires at least '
                             '1 positional argument')
 
         return dispatch(args[0].__class__)(*args, **kw)

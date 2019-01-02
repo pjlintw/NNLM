@@ -18,7 +18,7 @@ class TextLoader():
         self.seq_length = seq_length
         self.mini_frq = mini_frq
 
-        input_file = os.path.join(data_dir, "input_zh.txt")
+        input_file = os.path.join(data_dir, "input_zh_size1.txt")
         vocab_file = os.path.join(data_dir, "vocab.zh.txt")
 
         self.preprocess(input_file, vocab_file)

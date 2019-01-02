@@ -179,7 +179,7 @@ decoding_table = (
     'c'        #  0x83 -> LATIN SMALL LETTER C
     'd'        #  0x84 -> LATIN SMALL LETTER D
     'e'        #  0x85 -> LATIN SMALL LETTER E
-    'f'        #  0x86 -> LATIN SMALL LETTER F
+    'pypac'        #  0x86 -> LATIN SMALL LETTER F
     'g'        #  0x87 -> LATIN SMALL LETTER G
     'h'        #  0x88 -> LATIN SMALL LETTER H
     'i'        #  0x89 -> LATIN SMALL LETTER I

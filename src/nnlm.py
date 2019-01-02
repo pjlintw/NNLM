@@ -20,12 +20,13 @@ def main():
                         help='number of hidden layers')
     parser.add_argument('--word_dim', type=int, default=300,
                         help='number of word embedding')
-    parser.add_argument('--num_epochs', type=int, default=10,
+    parser.add_argument('--num_epochs', type=int, default=3,
                         help='number of epochs')
     parser.add_argument('--grad_clip', type=float, default=10.,
                         help='clip gradients at this value')
 
     args = parser.parse_args()
+    args_msg = '\n'.join([ arg + ': ' + str(getattr(args, arg)) for arg in vars(args)])
 
 
     data_loader = TextLoader(args.data_dir, args.batch_size, args.win_size)
@@ -105,6 +106,7 @@ def main():
     local_time = str(time.strftime("%Y-%m-%d_%H:%M:%S", time.localtime()))
     with open("{}.txt".format('casdsa'), 'w', encoding='utf-8') as f:
         f.write(local_time)
+        f.write(args_msg)
         f.write('\n'.join(processing_message_lst))
 
 

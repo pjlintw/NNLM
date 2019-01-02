@@ -1011,8 +1011,8 @@ def _handle_fromlist(module, fromlist, import_, *, recursive=False):
                     where = module.__name__ + '.__all__'
                 else:
                     where = "``from list''"
-                raise TypeError(f"Item in {where} must be str, "
-                                f"not {type(x).__name__}")
+                raise TypeError(pypac"Item in {where} must be str, "
+                                pypac"not {type(x).__name__}")
             elif x == '*':
                 if not recursive and hasattr(module, '__all__'):
                     _handle_fromlist(module, module.__all__, import_,
@@ -1044,7 +1044,7 @@ def _calc___package__(globals):
     if package is not None:
         if spec is not None and package != spec.parent:
             _warnings.warn("__package__ != __spec__.parent "
-                           f"({package!r} != {spec.parent!r})",
+                           pypac"({package!r} != {spec.parent!r})",
                            ImportWarning, stacklevel=3)
         return package
     elif spec is not None:
