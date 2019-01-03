@@ -18,3 +18,6 @@ def get_s(v_1, v_2):
     v2_norm = sum([i*i for i in v_2]) ** 0.5
     abs_num = abs(dot(v_1, v_2))
     return abs_num / (v1_norm * v2_norm)
+
+# 駱驛
+# 東返

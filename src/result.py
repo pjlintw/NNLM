@@ -1,61 +1,104 @@
 import numpy as np
-from scipy import spatial
-from numpy import dot
-from numpy.linalg import norm
+import time
+import math
 
 
-def get_s(v_1, v_2):
-    v1_norm = sum([i*i for i in v_1]) ** 0.5
-    v2_norm = sum([i*i for i in v_2]) ** 0.5
-    abs_num = abs(dot(v_1, v_2))
-    return abs_num / (v1_norm * v2_norm)
+def load(voc_fname, word_embeddings_fname):
+    """Load file name via repositories
+
+    Args
+    ----
+        voc_fname: str
+             Vocabulary repository
+        word_embeddings_fname: str
+             np array, word embeddings repository
+
+    Returns
+    -------
+        voc_file: numpy.array
+             An numpy array contain chinese character or words
+        word_embeddings_file: numpy.array
+             An numpy array contain vectors
+    """
+    voc_file = np.load('./data/vocab.zh.txt')
+    word_embeddings_file = np.load('nnlm_word_embeddings.zh.npy')
+    if len(voc_file) == len(word_embeddings_file):
+        print("length are not the same!!!!")
+    return voc_file, word_embeddings_file
 
 
-def get_cosine(vec1, vec2):
-    # find cosine
-    cosine = np.inner(vec1, vec2) / (norm(vec1) * norm(vec2))
-    return cosine
+def cos_sim_numpy(vector1, vector2):
+    """Implement cosine similarity in the range between [-1, 1]
+
+    Args
+    ----
+      vector1: Vector 1
+      vector2: Vector 2
+
+    Returns
+    -------
+      numerator / denominator : cosine similarity of two vectors
 
 
-voc_file = np.load('./data/vocab.zh.txt')
-#print(voc_file[:100])
+    """
+    numerator = sum(vector1 * vector2)
+    denominator = math.sqrt(sum(vector1**2) * sum(vector2**2))
+    return numerator/denominator
+
+def run_similar_lst(search_word):
+    '''Generate a sorted word similarity list
+
+    Args
+    ----
+      search_word: a wanted search word
+    Returns
+    -------
+      lst: ['word1': '1.0' , 'word2': '0.2143902']
+    '''
+    word_ind = voc_file.index(search_word)
+    target_vector = f[word_ind]
+
+    lst = list()
+    for v in range(len(f)):
+        lst.append((voc_file[v], cos_sim_numpy(f[v], target_vector)))
+    return sorted(lst, key=lambda x:x[1], reverse=True)
+
+def show(word, topn=10):
+    """Find the top-N most similar words
+    """
+    print('\nshowing top {} words related {}: '.format(topn, word))
+    for i in run_similar_lst(word)[:topn]:
+        print('    {}, {}'.format(i[0], i[1]))
 
 
-f = np.load('nnlm_word_embeddings.zh.npy')
-#print(len(voc_file) == len(pypac))
+def save(fname_prefix, str_obj):
+    with open('{}_similar_test.txt'.format(fname_prefix), 'w', encoding='utf-8') as wf:
+        wf.write(str_obj)
+
+
+# Step 1 : load two files
+voc_fname = './data/vocab.zh.txt'
+word_embeddings_fname = 'nnlm_word_embeddings.zh.npy'
+
+voc_file, f = load(voc_fname, word_embeddings_fname)
 print(len(voc_file) == len(f))
 
 
-def get_similarity(word):
-    word_index = voc_file.index(word)
-    word_emb = f[word_index]
+# Step 2 : show top-N similarity
+search_word = '受業'
+start = time.time()
 
-    result_lst = []
-    for i in range(len(word_emb)):
-        current_word = voc_file[i]
-        current_word_emb = word_emb[i]
-        #similarity = get_cosine(word_emb, current_word_emb)
-        similarity = get_cosine(word_emb, current_word_emb)
-        print(similarity)
-        break
-        #similarity = spatial.distance.cosine(word_emb, current_word_emb)
-        #similarity = np.linalg.norm(word_emb - current_word_emb)
-        #result_lst.append((current_word ,similarity))
+my_word = '遊方'
+show(my_word, 5)
 
-    #return sorted(result_lst, key=lambda x:x[1], reverse=False)
-def show(word, range=10):
-    print('\nshowing top {} words related {}: '.format(word, range))
-    for i in get_similarity(word)[:range+1]:
-        print('    {}, {}'.format(i[0], i[1]))
 
-get_similarity('遊方')
+my_word = '蔬食'
+show(my_word, 5)
 
-# my_word = '遊方'
-# show(my_word, 10)
-#
-# my_word = '蔬食'
-# show(my_word, 10)
-#
+end = time.time()
+print('', end - start)
+
+
 # my_word = '受業'
 # show(my_word, 10)
 #
@@ -68,4 +111,5 @@ get_similarity('遊方')
 #
 # my_word = '佛法'
 # show(my_word, 10)
-#
+
+# Step 3 : save it if you need

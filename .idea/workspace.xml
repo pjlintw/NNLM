@@ -2,339 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5e5271d-cd43-4d3e-afc8-77356e7efcc8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/cp037.py" afterPath="$PROJECT_DIR$/Lib/encodings/cp037.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/cp1140.py" afterPath="$PROJECT_DIR$/Lib/encodings/cp1140.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/cp1251.py" afterPath="$PROJECT_DIR$/Lib/encodings/cp1251.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/cp1253.py" afterPath="$PROJECT_DIR$/Lib/encodings/cp1253.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/cp1255.py" afterPath="$PROJECT_DIR$/Lib/encodings/cp1255.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/cp1257.py" afterPath="$PROJECT_DIR$/Lib/encodings/cp1257.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/cp437.py" afterPath="$PROJECT_DIR$/Lib/encodings/cp437.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/cp737.py" afterPath="$PROJECT_DIR$/Lib/encodings/cp737.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/cp775.py" afterPath="$PROJECT_DIR$/Lib/encodings/cp775.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/cp850.py" afterPath="$PROJECT_DIR$/Lib/encodings/cp850.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/cp863.py" afterPath="$PROJECT_DIR$/Lib/encodings/cp863.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/cp864.py" afterPath="$PROJECT_DIR$/Lib/encodings/cp864.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/cp865.py" afterPath="$PROJECT_DIR$/Lib/encodings/cp865.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/iso8859_1.py" afterPath="$PROJECT_DIR$/Lib/encodings/iso8859_1.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/iso8859_11.py" afterPath="$PROJECT_DIR$/Lib/encodings/iso8859_11.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/iso8859_2.py" afterPath="$PROJECT_DIR$/Lib/encodings/iso8859_2.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/iso8859_7.py" afterPath="$PROJECT_DIR$/Lib/encodings/iso8859_7.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/iso8859_8.py" afterPath="$PROJECT_DIR$/Lib/encodings/iso8859_8.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/koi8_t.py" afterPath="$PROJECT_DIR$/Lib/encodings/koi8_t.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/mac_croatian.py" afterPath="$PROJECT_DIR$/Lib/encodings/mac_croatian.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/mac_cyrillic.py" afterPath="$PROJECT_DIR$/Lib/encodings/mac_cyrillic.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/mac_farsi.py" afterPath="$PROJECT_DIR$/Lib/encodings/mac_farsi.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/mac_iceland.py" afterPath="$PROJECT_DIR$/Lib/encodings/mac_iceland.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/encodings/tis_620.py" afterPath="$PROJECT_DIR$/Lib/encodings/tis_620.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/functools.py" afterPath="$PROJECT_DIR$/Lib/functools.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/importlib/_bootstrap.py" afterPath="$PROJECT_DIR$/Lib/importlib/_bootstrap.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/core/magics/history.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/core/magics/history.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/core/magics/osm.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/core/magics/osm.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_completer.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_completer.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_history.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_history.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_inputtransformer2.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_inputtransformer2.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_interactiveshell.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_interactiveshell.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_magic.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_magic.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_oinspect.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_oinspect.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_prefilter.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_prefilter.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_splitinput.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_splitinput.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_ultratb.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/core/tests/test_ultratb.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/lib/demo.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/lib/demo.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/terminal/tests/test_debug_magic.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/terminal/tests/test_debug_magic.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/testing/plugin/dtexample.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/testing/plugin/dtexample.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/testing/tests/test_decorators.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/testing/tests/test_decorators.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/IPython/utils/tests/test_text.py" afterPath="$PROJECT_DIR$/Lib/site-packages/IPython/utils/tests/test_text.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/google/protobuf/internal/json_format_test.py" afterPath="$PROJECT_DIR$/Lib/site-packages/google/protobuf/internal/json_format_test.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/google/protobuf/internal/reflection_test.py" afterPath="$PROJECT_DIR$/Lib/site-packages/google/protobuf/internal/reflection_test.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/google/protobuf/internal/text_format_test.py" afterPath="$PROJECT_DIR$/Lib/site-packages/google/protobuf/internal/text_format_test.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/google/protobuf/internal/wire_format.py" afterPath="$PROJECT_DIR$/Lib/site-packages/google/protobuf/internal/wire_format.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/h5py/_hl/attrs.py" afterPath="$PROJECT_DIR$/Lib/site-packages/h5py/_hl/attrs.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/h5py/_hl/group.py" afterPath="$PROJECT_DIR$/Lib/site-packages/h5py/_hl/group.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/common.py" afterPath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/common.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/old/test_dimension_scales.py" afterPath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/old/test_dimension_scales.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/ipykernel/comm/manager.py" afterPath="$PROJECT_DIR$/Lib/site-packages/ipykernel/comm/manager.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/ipykernel/kernelapp.py" afterPath="$PROJECT_DIR$/Lib/site-packages/ipykernel/kernelapp.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/ipykernel/kernelspec.py" afterPath="$PROJECT_DIR$/Lib/site-packages/ipykernel/kernelspec.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/ipykernel/tests/test_kernel.py" afterPath="$PROJECT_DIR$/Lib/site-packages/ipykernel/tests/test_kernel.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/ipykernel/tests/test_kernelspec.py" afterPath="$PROJECT_DIR$/Lib/site-packages/ipykernel/tests/test_kernelspec.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/ipython_genutils/text.py" afterPath="$PROJECT_DIR$/Lib/site-packages/ipython_genutils/text.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/jedi/api/classes.py" afterPath="$PROJECT_DIR$/Lib/site-packages/jedi/api/classes.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/jedi/api/helpers.py" afterPath="$PROJECT_DIR$/Lib/site-packages/jedi/api/helpers.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/jedi/evaluate/pep0484.py" afterPath="$PROJECT_DIR$/Lib/site-packages/jedi/evaluate/pep0484.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/jieba/__init__.py" afterPath="$PROJECT_DIR$/Lib/site-packages/jieba/__init__.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/jieba/posseg/prob_trans.py" afterPath="$PROJECT_DIR$/Lib/site-packages/jieba/posseg/prob_trans.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/jinja2/loaders.py" afterPath="$PROJECT_DIR$/Lib/site-packages/jinja2/loaders.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/jupyter_core/tests/test_migrate.py" afterPath="$PROJECT_DIR$/Lib/site-packages/jupyter_core/tests/test_migrate.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/keras_applications/resnet50.py" afterPath="$PROJECT_DIR$/Lib/site-packages/keras_applications/resnet50.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/nbconvert/filters/markdown.py" afterPath="$PROJECT_DIR$/Lib/site-packages/nbconvert/filters/markdown.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/nbconvert/utils/pandoc.py" afterPath="$PROJECT_DIR$/Lib/site-packages/nbconvert/utils/pandoc.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/_internal.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/_internal.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/getlimits.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/getlimits.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/numeric.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/numeric.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/setup_common.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/setup_common.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_multiarray.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_multiarray.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_ufunc.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_ufunc.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_umath_complex.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_umath_complex.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/command/build_src.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/command/build_src.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/extension.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/extension.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/fcompiler/gnu.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/fcompiler/gnu.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/fcompiler/intel.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/fcompiler/intel.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/tests/test_exec_command.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/tests/test_exec_command.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/capi_maps.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/capi_maps.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/f2py2e.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/f2py2e.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/tests/test_common.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/tests/test_common.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/tests/test_mixed.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/tests/test_mixed.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/tests/test_return_complex.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/tests/test_return_complex.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/tests/test_return_integer.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/tests/test_return_integer.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/tests/test_return_logical.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/tests/test_return_logical.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/tests/test_return_real.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/tests/test_return_real.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/fft/helper.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/fft/helper.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/arraysetops.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/arraysetops.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/function_base.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/function_base.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_format.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_format.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_io.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_io.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_twodim_base.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_twodim_base.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/utils.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/utils.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/linalg/tests/test_deprecations.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/linalg/tests/test_deprecations.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/ma/core.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/ma/core.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/ma/tests/test_core.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/ma/tests/test_core.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/polynomial/chebyshev.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/polynomial/chebyshev.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/polynomial/legendre.py" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/polynomial/legendre.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/parso/python/errors.py" afterPath="$PROJECT_DIR$/Lib/site-packages/parso/python/errors.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/parso/python/tokenize.py" afterPath="$PROJECT_DIR$/Lib/site-packages/parso/python/tokenize.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_internal/commands/completion.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_internal/commands/completion.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_internal/index.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_internal/index.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_internal/operations/freeze.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_internal/operations/freeze.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/idna/uts46data.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/idna/uts46data.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/pytoml/parser.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/pytoml/parser.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/webencodings/x_user_defined.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/webencodings/x_user_defined.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/prompt_toolkit/key_binding/bindings/page_navigation.py" afterPath="$PROJECT_DIR$/Lib/site-packages/prompt_toolkit/key_binding/bindings/page_navigation.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/prompt_toolkit/key_binding/bindings/vi.py" afterPath="$PROJECT_DIR$/Lib/site-packages/prompt_toolkit/key_binding/bindings/vi.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/_scilab_builtins.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/_scilab_builtins.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/actionscript.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/actionscript.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/asm.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/asm.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/basic.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/basic.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/dalvik.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/dalvik.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/dotnet.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/dotnet.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/dylan.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/dylan.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/factor.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/factor.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/graphics.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/graphics.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/nit.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/nit.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/prolog.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/prolog.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/rebol.py" afterPath="$PROJECT_DIR$/Lib/site-packages/pygments/lexers/rebol.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/qtconsole/completion_html.py" afterPath="$PROJECT_DIR$/Lib/site-packages/qtconsole/completion_html.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/qtconsole/usage.py" afterPath="$PROJECT_DIR$/Lib/site-packages/qtconsole/usage.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/_build_utils/_fortran.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/_build_utils/_fortran.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/_lib/_util.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/_lib/_util.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/fftpack/helper.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/fftpack/helper.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/fftpack/setup.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/fftpack/setup.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/integrate/_ivp/rk.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/integrate/_ivp/rk.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/integrate/quadrature.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/integrate/quadrature.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/interpolate/_bsplines.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/interpolate/_bsplines.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/interpolate/_cubic.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/interpolate/_cubic.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/interpolate/interpolate.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/interpolate/interpolate.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/interpolate/tests/test_interpolate.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/interpolate/tests/test_interpolate.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/io/_fortran.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/io/_fortran.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/io/matlab/tests/test_mio.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/io/matlab/tests/test_mio.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/linalg/_decomp_qz.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/linalg/_decomp_qz.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/linalg/blas.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/linalg/blas.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/linalg/decomp_schur.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/linalg/decomp_schur.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/linalg/matfuncs.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/linalg/matfuncs.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/linalg/setup.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/linalg/setup.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/linalg/tests/test_decomp.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/linalg/tests/test_decomp.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/misc/doccer.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/misc/doccer.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/ndimage/filters.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/ndimage/filters.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/ndimage/tests/test_ndimage.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/ndimage/tests/test_ndimage.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/_dual_annealing.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/_dual_annealing.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/_minimize.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/_minimize.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/_numdiff.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/_numdiff.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/_shgo.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/_shgo.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/_spectral.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/_spectral.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/_trustregion_constr/report.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/_trustregion_constr/report.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/cobyla.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/cobyla.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/minpack.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/minpack.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/nonlin.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/nonlin.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/setup.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/setup.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/tests/test__shgo.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/tests/test__shgo.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/tests/test__spectral.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/optimize/tests/test__spectral.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/signal/filter_design.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/signal/filter_design.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/signal/fir_filter_design.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/signal/fir_filter_design.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/signal/spectral.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/signal/spectral.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/signal/waveforms.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/signal/waveforms.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/signal/wavelets.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/signal/wavelets.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/sparse/linalg/dsolve/tests/test_linsolve.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/sparse/linalg/dsolve/tests/test_linsolve.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/sparse/linalg/eigen/arpack/arpack.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/sparse/linalg/eigen/arpack/arpack.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/sparse/linalg/eigen/arpack/setup.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/sparse/linalg/eigen/arpack/setup.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/sparse/linalg/interface.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/sparse/linalg/interface.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/sparse/linalg/isolve/tests/test_iterative.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/sparse/linalg/isolve/tests/test_iterative.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/spatial/distance.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/spatial/distance.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/stats/_distn_infrastructure.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/stats/_distn_infrastructure.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/stats/_distr_params.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/stats/_distr_params.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/stats/mstats_basic.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/stats/mstats_basic.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/scipy/stats/tests/test_discrete_distns.py" afterPath="$PROJECT_DIR$/Lib/site-packages/scipy/stats/tests/test_discrete_distns.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/setuptools/command/easy_install.py" afterPath="$PROJECT_DIR$/Lib/site-packages/setuptools/command/easy_install.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorboard/_vendor/html5lib/sanitizer.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorboard/_vendor/html5lib/sanitizer.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorboard/plugins/debugger/interactive_debugger_server_lib.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorboard/plugins/debugger/interactive_debugger_server_lib.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/bayesflow/python/ops/monte_carlo_impl.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/bayesflow/python/ops/monte_carlo_impl.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/distribute/python/values.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/distribute/python/values.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/distributions/python/ops/negative_binomial.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/distributions/python/ops/negative_binomial.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/factorization/python/ops/gmm_ops.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/factorization/python/ops/gmm_ops.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/model_pruning/python/layers/rnn_cells.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/model_pruning/python/layers/rnn_cells.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/opt/python/training/external_optimizer.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/opt/python/training/external_optimizer.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/specs/python/specs_ops.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/specs/python/specs_ops.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/tensor_forest/hybrid/python/ops/training_ops.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/tensor_forest/hybrid/python/ops/training_ops.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/tpu/python/ops/tpu_ops.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/tpu/python/ops/tpu_ops.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/training/python/training/evaluation.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/training/python/training/evaluation.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/autograph/pyct/inspect_utils.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/autograph/pyct/inspect_utils.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/data/util/nest.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/data/util/nest.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/debug/cli/cli_config.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/debug/cli/cli_config.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/eager/backprop.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/eager/backprop.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/backend.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/backend.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/engine/training.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/engine/training.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/functional_ops.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/functional_ops.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/gen_array_ops.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/gen_array_ops.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/gen_audio_ops.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/gen_audio_ops.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/gen_candidate_sampling_ops.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/gen_candidate_sampling_ops.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/gen_dataset_ops.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/gen_dataset_ops.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/gen_functional_ops.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/gen_functional_ops.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/gen_lookup_ops.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/gen_lookup_ops.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/gradients_impl.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/gradients_impl.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/logging_ops.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/logging_ops.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/parsing_ops.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/parsing_ops.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/rnn_cell_impl.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/rnn_cell_impl.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/testpath/commands.py" afterPath="$PROJECT_DIR$/Lib/site-packages/testpath/commands.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tornado/test/asyncio_test.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tornado/test/asyncio_test.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tornado/test/concurrent_test.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tornado/test/concurrent_test.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tornado/test/gen_test.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tornado/test/gen_test.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tornado/test/httputil_test.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tornado/test/httputil_test.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tornado/test/locks_test.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tornado/test/locks_test.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tornado/test/util_test.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tornado/test/util_test.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tornado/test/web_test.py" afterPath="$PROJECT_DIR$/Lib/site-packages/tornado/test/web_test.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/webencodings/x_user_defined.py" afterPath="$PROJECT_DIR$/Lib/site-packages/webencodings/x_user_defined.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/werkzeug/utils.py" afterPath="$PROJECT_DIR$/Lib/site-packages/werkzeug/utils.py" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/zmq/_future.py" afterPath="$PROJECT_DIR$/Lib/site-packages/zmq/_future.py" />
-      <change beforePath="$PROJECT_DIR$/src/check.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/data/input_zh.txt" afterPath="$PROJECT_DIR$/src/data/input_zh.txt" />
-      <change beforePath="$PROJECT_DIR$/src/data/vocab.zh.txt" afterPath="$PROJECT_DIR$/src/data/vocab.zh.txt" />
-      <change beforePath="$PROJECT_DIR$/src/gao.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/j.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/jieba_preprocessing.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/liang.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/ming.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/nnlm.py" afterPath="$PROJECT_DIR$/src/nnlm.py" />
-      <change beforePath="$PROJECT_DIR$/src/nnlm_data/input_zh.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/nnlm_data/liang-gaoseng-zhuan.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/nnlm_data/ming-gaoseng-zhuan.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/nnlm_data/mingseng-zhuan-chao.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/nnlm_data/tang-gaoseng-zhuan.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/preprocessing.py" afterPath="$PROJECT_DIR$/src/preprocessing.py" />
-      <change beforePath="$PROJECT_DIR$/src/result.py" afterPath="$PROJECT_DIR$/src/result.py" />
-      <change beforePath="$PROJECT_DIR$/src/song.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nnlm_word_embeddings.zh.npy" beforeDir="false" afterPath="$PROJECT_DIR$/src/nnlm_word_embeddings.zh.npy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_similarity.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_similarity.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/NNLM$jieba_preprocessing.coverage" NAME="jieba_preprocessing Coverage Results" MODIFIED="1545756516525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/NNLM$result.coverage" NAME="result Coverage Results" MODIFIED="1545811636923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/NNLM$result.coverage" NAME="result Coverage Results" MODIFIED="1546506538123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/NNLM$test_similarity.coverage" NAME="test_similarity Coverage Results" MODIFIED="1546498569066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/NNLM$nnlm.coverage" NAME="nnlm Coverage Results" MODIFIED="1545757130933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/NNLM$jieba_preprocessing.coverage" NAME="jieba_preprocessing Coverage Results" MODIFIED="1545756516525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="result.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/result.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="522">
+              <caret line="105" column="16" lean-forward="true" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vocab.zh.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data/vocab.zh.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="preprocessing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/preprocessing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="20" column="59" lean-forward="false" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nnlm.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/nnlm.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="103" column="32" lean-forward="false" selection-start-line="103" selection-start-column="32" selection-end-line="103" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lib/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="input_zh.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data/input_zh.txt">
-          <provider selected="true" editor-type-id="LargeFileEditor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="input_zh_size1.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data/input_zh_size1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_similarity.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test_similarity.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="training_result.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/training_result.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159874">
-              <caret line="7267" column="58" lean-forward="false" selection-start-line="7267" selection-start-column="58" selection-end-line="7267" selection-end-column="58" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -371,6 +65,7 @@
       <find>《</find>
       <find>《金光明最勝王》</find>
       <find>《能斷金剛般若》</find>
+      <find>voc</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -381,8 +76,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/first.ipynb" />
         <option value="$PROJECT_DIR$/src/gao.txt" />
-        <option value="$PROJECT_DIR$/src/test_similarity.py" />
-        <option value="$PROJECT_DIR$/src/result.py" />
         <option value="$PROJECT_DIR$/src/ming.txt" />
         <option value="$PROJECT_DIR$/src/liang.txt" />
         <option value="$PROJECT_DIR$/src/data/input_zh.txt" />
@@ -405,10 +98,12 @@
         <option value="$PROJECT_DIR$/src/jieba_preprocessing.py" />
         <option value="$PROJECT_DIR$/src/preprocessing.py" />
         <option value="$PROJECT_DIR$/src/nnlm.py" />
+        <option value="$PROJECT_DIR$/src/test_similarity.py" />
+        <option value="$PROJECT_DIR$/src/result.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1965" />
     <option name="y" value="309" />
     <option name="width" value="1937" />
@@ -418,22 +113,10 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -456,14 +139,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Linus/PycharmProjects/NNLM/src/nnlm.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../GaosengZhuan/13.TEI_to_xml" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -483,8 +167,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.jieba_preprocessing">
+  <component name="RunManager" selected="Python.result">
     <configuration name="GSZ_processing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NNLM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -495,14 +180,18 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NNLM" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/GSZ_processing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NNLM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -513,32 +202,18 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NNLM" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/gsztool/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="__main__" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/mysample" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NNLM" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/mysample/__main__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="jieba_preprocessing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NNLM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -549,31 +224,59 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NNLM" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/jieba_preprocessing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="result" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NNLM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lib/site-packages/gsztool" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="NNLM" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lib/site-packages/gsztool/setup.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/result.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_similarity" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NNLM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test_similarity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="NNLM" type="Python.Ipnb" factoryName="Jupyter Notebook">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -591,26 +294,22 @@
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.NNLM" />
-      <item index="1" class="java.lang.String" itemvalue="Python.jieba_preprocessing" />
-      <item index="2" class="java.lang.String" itemvalue="Python.__main__" />
-      <item index="3" class="java.lang.String" itemvalue="Python.setup" />
-      <item index="4" class="java.lang.String" itemvalue="Python.__init__" />
-      <item index="5" class="java.lang.String" itemvalue="Python.GSZ_processing" />
+    <list>
+      <item itemvalue="Python.jieba_preprocessing" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.GSZ_processing" />
+      <item itemvalue="Python.test_similarity" />
+      <item itemvalue="Python.result" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.jieba_preprocessing" />
-        <item index="1" class="java.lang.String" itemvalue="Python.GSZ_processing" />
-        <item index="2" class="java.lang.String" itemvalue="Python.__init__" />
-        <item index="3" class="java.lang.String" itemvalue="Python.setup" />
-        <item index="4" class="java.lang.String" itemvalue="Python.__main__" />
+      <list>
+        <item itemvalue="Python.result" />
+        <item itemvalue="Python.test_similarity" />
+        <item itemvalue="Python.jieba_preprocessing" />
+        <item itemvalue="Python.GSZ_processing" />
+        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -623,45 +322,43 @@
       <option name="presentableId" value="Default" />
       <updated>1545570193909</updated>
       <workItem from="1545749756657" duration="19275000" />
+      <workItem from="1546495394652" duration="11713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19275000" />
+    <option name="totallyTimeSpent" value="30988000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14383562" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22237961" sideWeight="0.50067025" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2742111" sideWeight="0.49865952" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14472252" sideWeight="0.9142091" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4036827" sideWeight="0.49932975" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4624592" sideWeight="0.49329758" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934713" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06903485" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" x="0" y="0" width="337" height="638" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12899786" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49865952" weight="0.2742111" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9142091" weight="0.29934925" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49329758" weight="0.1778742" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.22237961" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49932975" weight="0.159436" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="3" side_tool="true" visible="true" weight="0.06903485" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -671,37 +368,11 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/jieba/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8514">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/jieba/__main__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-748">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/jieba/analyse/tfidf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1482">
-          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/jieba/posseg/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3696">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#56#0" expanded="false" />
           </folding>
@@ -710,8 +381,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/pip/__main__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding>
             <element signature="e#0#38#0" expanded="false" />
           </folding>
@@ -720,32 +390,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/keyword.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GSZ_processing/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GSZ_processing/sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="45" lean-forward="false" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSZ_processing/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/src/GSZ_processing/sample.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/pip/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding />
         </state>
       </provider>
@@ -753,15 +407,14 @@
     <entry file="file://$PROJECT_DIR$/Lib/re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2764">
-          <caret line="281" column="0" lean-forward="true" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
+          <caret line="281" lean-forward="true" selection-start-line="281" selection-end-line="281" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/jieba/dict.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding />
         </state>
       </provider>
@@ -769,95 +422,43 @@
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/numpy/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4182">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/numpy/setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="21" />
+        <state>
+          <caret selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/mysample/__main__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/mysample/sub/mypac.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/mysample/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/mysample/__main__.py" />
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/mysample/sub/mypac.py" />
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/mysample/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/notebook/__main__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/mysample/sitecustomize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pypac/first.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/pypac/first.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/mysample/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/mysample/sitecustomize.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pypac/first.py" />
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/pypac/first.py" />
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/mysample/setup.py" />
     <entry file="file://$PROJECT_DIR$/Lib/importlib/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
-          <caret line="156" column="47" lean-forward="false" selection-start-line="156" selection-start-column="47" selection-end-line="156" selection-end-column="47" />
+          <caret line="156" column="47" selection-start-line="156" selection-start-column="47" selection-end-line="156" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/importlib/_bootstrap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding />
         </state>
       </provider>
@@ -865,71 +466,27 @@
     <entry file="file://$PROJECT_DIR$/Lib/importlib/abc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1386">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/gsztool/pypac/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/gsztool/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/gsztool/runner">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/gsztool/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/gsztool/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/gsztool/pypac/sample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/gsztool/pypac/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/gsztool/README.md" />
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/gsztool/runner" />
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/gsztool/setup.py" />
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/gsztool/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/gsztool/pypac/sample.py" />
     <entry file="file://$PROJECT_DIR$/Lib/importlib/util.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="66" column="32" lean-forward="false" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
+          <caret line="66" column="32" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lib/importlib/machinery.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding />
         </state>
       </provider>
@@ -937,87 +494,89 @@
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/typing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50160">
-          <caret line="2287" column="8" lean-forward="false" selection-start-line="2287" selection-start-column="8" selection-end-line="2287" selection-end-column="8" />
+          <caret line="2287" column="8" selection-start-line="2287" selection-start-column="8" selection-end-line="2287" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/gaoseng/j.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="207" column="3" lean-forward="false" selection-start-line="207" selection-start-column="3" selection-end-line="207" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jieba_preprocessing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1760">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jieba_output.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20746">
-          <caret line="943" column="16" lean-forward="false" selection-start-line="943" selection-start-column="16" selection-end-line="943" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/gaoseng/j.txt" />
+    <entry file="file://$PROJECT_DIR$/src/jieba_preprocessing.py" />
+    <entry file="file://$PROJECT_DIR$/src/jieba_output.txt" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/check.txt">
+    <entry file="file://$PROJECT_DIR$/src/check.txt" />
+    <entry file="file://$PROJECT_DIR$/src/GSZ_processing.py" />
+    <entry file="file://$PROJECT_DIR$/src/remoal.txt" />
+    <entry file="file://$PROJECT_DIR$/src/nnlm_data/liang-gaoseng-zhuan.txt" />
+    <entry file="file://$PROJECT_DIR$/src/data/input_zh(origin).txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state>
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GSZ_processing.py">
+    <entry file="file://$PROJECT_DIR$/src/data/vocab.zh.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/input_zh.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/input_zh_size1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/training_result.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1936">
-          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="159874">
+          <caret line="7267" column="58" selection-start-line="7267" selection-start-column="58" selection-end-line="7267" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/remoal.txt">
+    <entry file="file://$PROJECT_DIR$/src/similar_test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/casdsa.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="418">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tr_20190102.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-968">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nnlm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2134">
+          <caret line="97" column="38" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="20" column="59" lean-forward="false" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/training_result.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159874">
-          <caret line="7267" column="58" lean-forward="false" selection-start-line="7267" selection-start-column="58" selection-end-line="7267" selection-end-column="58" />
-          <folding />
+        <state relative-caret-position="520">
+          <caret line="67" column="61" lean-forward="true" selection-start-line="67" selection-start-column="61" selection-end-line="67" selection-end-column="61" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test_similarity.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="506">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -1026,66 +585,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/result.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="522">
+          <caret line="105" column="16" lean-forward="true" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nnlm_data/liang-gaoseng-zhuan.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/vocab.zh.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/input_zh(origin).txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/input_zh_size1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/input_zh.txt">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nnlm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="103" column="32" lean-forward="false" selection-start-line="103" selection-start-column="32" selection-end-line="103" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
