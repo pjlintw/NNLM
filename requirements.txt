@@ -15,7 +15,7 @@ ipython-genutils==0.2.0
 ipywidgets==7.4.2
 jedi==0.13.1
 jieba==0.39
-Jinja2==2.10
+Jinja2>=2.10.1
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.4
@@ -53,5 +53,5 @@ tornado==5.1.1
 traitlets==4.3.2
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.4.2
